@@ -1,10 +1,10 @@
-# 🛰️ DisasterLens : Satellite Imagery Natural Disaster Classifier
+# 🛰️ LensAerial : Aerial Imagery Natural Disaster Classifier
 
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-ee4c2c.svg)](https://pytorch.org/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.28+-ff4b4b.svg)](https://streamlit.io/)
 [![Docker](https://img.shields.io/badge/Docker-Enabled-2496ed.svg)](https://www.docker.com/)
-[![CI/CD ML Pipeline](https://github.com/KishanDeka/DisasterLens/actions/workflows/ci-cd.yml/badge.svg)](https://github.com/KishanDeka/DisasterLens/actions/workflows/ci-cd.yml)
+[![CI/CD ML Pipeline](https://github.com/KishanDeka/LensAerial/actions/workflows/ci-cd.yml/badge.svg)](https://github.com/KishanDeka/LensAerial/actions/workflows/ci-cd.yml)
 
 An end-to-end **Deep Learning system and MLOps pipeline** designed to classify satellite imagery into natural disaster events in real time.
 
@@ -149,8 +149,8 @@ Make sure the following are installed:
 ## 2. Clone the Repository
 
 ```bash
-git clone https://github.com/KishanDeka/DisasterLens.git
-cd disasterlens
+git clone https://github.com/KishanDeka/LensAerial.git
+cd lensaerial
 ```
 
 ---
